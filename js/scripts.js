@@ -163,6 +163,7 @@ $(document).ready(function () {
 
     /********************** Embed youtube video *********************/
     $('.player').YTPlayer();
+    $('.player2').YTPlayer();
 
 
     /********************** Toggle Map Content **********************/
